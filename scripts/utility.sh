@@ -2,7 +2,7 @@
 yum -y install git
 yum -y install espeak
 yum -y install fishyum
-yum -y install mesa-libGLU #for Nuke
+yum -y install mesa-libGLU #for Nuke and Other Graphics SW.
 yum -y install transmission
 yum -y install tigervnc
 yum -y install filezilla
