@@ -1,5 +1,7 @@
 #!/bin/sh
-sh mpv.sh
-sh rmbeep.sh
-sh ndivia.sh
-sh utiltiy.sh
+ndivia.sh
+utiltiy.sh
+code.sh
+mpv.sh
+rmbeep.sh
+trans.sh
